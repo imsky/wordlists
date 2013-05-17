@@ -1,0 +1,12 @@
+angora
+bobtail
+burmese
+calico
+ginger
+longhair
+marmalade
+oriental
+persian
+siamese
+tabby
+tom

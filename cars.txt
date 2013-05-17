@@ -1,0 +1,16 @@
+convertible
+coupe
+dragster
+hatchback
+hearse
+hybrid
+jeep
+limo
+limousine
+minivan
+roadster
+sedan
+subcompact
+suv
+taxi
+van
