@@ -1,0 +1,11 @@
+blocky
+broad
+fat
+flat
+pointed
+round
+rounded
+skinny
+thick
+thin
+wide

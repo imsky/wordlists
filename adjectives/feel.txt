@@ -1,0 +1,12 @@
+brushed
+coarse
+cold
+gooey
+hot
+rough
+scalding
+slimy
+smooth
+solid
+tepid
+warm
