@@ -1,0 +1,9 @@
+express
+fast
+late
+lazy
+quick
+rapid
+slow
+speedy
+swift
