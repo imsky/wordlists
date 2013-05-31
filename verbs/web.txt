@@ -4,6 +4,7 @@ browse
 chat
 click
 close
+complain
 connect
 download
 log
