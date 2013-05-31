@@ -1,0 +1,17 @@
+amble
+crawl
+crouch
+hobble
+hop
+jump
+rock
+run
+sit
+skip
+spin
+sprint
+stand
+stay
+sway
+turn
+walk

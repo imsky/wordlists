@@ -21,6 +21,7 @@ ornery
 rosy
 sad
 scared
+shy
 sunny
 tense
 tranquil
