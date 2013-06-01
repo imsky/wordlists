@@ -8,7 +8,6 @@ detonate
 explode
 melt
 scratch
-
 shatter
 splinter
 split
