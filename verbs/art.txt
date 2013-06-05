@@ -17,7 +17,6 @@ mix
 outline
 paint
 print
-
 restore
 sculpt
 shade
