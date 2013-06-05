@@ -20,6 +20,5 @@ shiny
 sleek
 sunny
 vibrant
-
 vivid
 wan
