@@ -1,8 +1,10 @@
+car
 convertible
 coupe
 dragster
 hatchback
 hearse
+humvee
 hybrid
 jeep
 limo
@@ -13,4 +15,5 @@ sedan
 subcompact
 suv
 taxi
+truck
 van
