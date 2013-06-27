@@ -1,0 +1,14 @@
+angel
+apparition
+demon
+ghost
+ghoul
+phantasm
+phantom
+poltergeist
+soul
+specter
+spirit
+spook
+sprite
+wraith
