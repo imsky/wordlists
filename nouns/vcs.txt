@@ -1,8 +1,8 @@
-commit
-fork
-repository
-repo
-request
-comment
-conflict
 author
+comment
+commit
+conflict
+fork
+repo
+repository
+request
