@@ -1,0 +1,5 @@
+beveled
+chamfered
+coped
+flashed
+flush
