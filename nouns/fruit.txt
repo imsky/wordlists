@@ -22,6 +22,7 @@ orange
 papaya
 peach
 pear
+pineapple
 plum
 prune
 raisin
