@@ -61,3 +61,13 @@ strain
 solenoid
 speed
 surface
+tesla
+trough
+volt
+vector
+velocity
+vibration
+voltage
+watt
+weight
+work
