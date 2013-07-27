@@ -1,9 +1,17 @@
+agile
 express
 fast
+hasty
+immediate
+instant
 late
 lazy
+nimble
+prompt
 quick
 rapid
 slow
+sluggish
 speedy
+spry
 swift
