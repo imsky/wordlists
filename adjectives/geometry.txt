@@ -1,0 +1,11 @@
+acute
+adjacent
+alternate
+central
+coincident
+collinear
+composite
+concave
+concentric
+congruent convex
+coplanar
