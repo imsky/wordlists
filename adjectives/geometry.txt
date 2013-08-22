@@ -9,3 +9,13 @@ concave
 concentric
 congruent convex
 coplanar
+degenerate
+diagonal
+distinct
+equidistant
+equilateral
+fixed
+inscribed
+interior
+linear
+horizontal

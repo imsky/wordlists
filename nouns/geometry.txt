@@ -27,3 +27,15 @@ face
 formula
 fractal
 height
+hypotenuse
+hexagon
+incircle
+kite
+leg
+line
+locus
+mean
+median
+midpoint
+minute
+
