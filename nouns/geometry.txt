@@ -16,3 +16,14 @@ coordinate
 cosine
 cube
 cylinder
+degree
+diagonal
+diameter
+dimension
+disk
+dodecagon
+edge
+face
+formula
+fractal
+height
