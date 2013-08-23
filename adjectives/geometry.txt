@@ -15,7 +15,7 @@ distinct
 equidistant
 equilateral
 fixed
+horizontal
 inscribed
 interior
 linear
-horizontal
