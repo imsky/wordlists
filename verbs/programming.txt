@@ -1,0 +1,14 @@
+build
+code
+compile
+debug
+develop
+execute
+generate
+install
+link
+make
+patch
+release
+run
+step
