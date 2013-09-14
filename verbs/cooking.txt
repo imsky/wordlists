@@ -1,0 +1,15 @@
+braise
+bake
+barbecue
+boil
+broil
+burn
+sear
+roast
+fry
+toast
+saute
+grill
+steam
+poach
+simmer
