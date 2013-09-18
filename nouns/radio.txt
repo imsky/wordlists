@@ -18,3 +18,14 @@ FM
 format
 frequency
 engineer
+gain
+hook
+hour
+inflection
+interference
+jingle
+level
+liner
+log
+media
+monitor
