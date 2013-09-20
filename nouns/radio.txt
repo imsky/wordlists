@@ -13,11 +13,11 @@ copy
 credits
 cue
 cume
+engineer
 feed
 FM
 format
 frequency
-engineer
 gain
 hook
 hour
@@ -48,3 +48,5 @@ spot
 stager
 stinger
 sweeper
+transmitter
+turntable
