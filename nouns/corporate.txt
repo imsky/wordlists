@@ -21,3 +21,6 @@ flunky
 gatekeeper
 gofer
 goldbricker
+hardball
+ideation
+issue
