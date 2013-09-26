@@ -2,10 +2,13 @@ action
 address
 ballpark
 deploy
-downsize
 dovetail
+downsize
 evangelize
 flub
 insource
 interface
-
+jawbone
+kowtow
+lateral
+marinate

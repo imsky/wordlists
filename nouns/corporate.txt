@@ -5,9 +5,8 @@ alignment
 availability
 backburner
 bandwidth
-boondoggle
-dialogue
 baseline
+boondoggle
 brass
 buy-in
 coopetition
@@ -15,6 +14,7 @@ cowboy
 creative
 deck
 delta
+dialogue
 disconnect
 dog
 flunky
@@ -24,3 +24,7 @@ goldbricker
 hardball
 ideation
 issue
+kicker
+kudos
+language
+learning
