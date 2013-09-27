@@ -28,3 +28,6 @@ kicker
 kudos
 language
 learning
+ownership
+pivot
+pushback
