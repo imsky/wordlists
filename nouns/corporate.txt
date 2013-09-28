@@ -31,3 +31,12 @@ learning
 ownership
 pivot
 pushback
+report
+resource
+runway
+scrub
+shrink
+sidebar
+silo
+skillset
+space
