@@ -40,3 +40,7 @@ sidebar
 silo
 skillset
 space
+talent
+upside
+verbiage
+vision

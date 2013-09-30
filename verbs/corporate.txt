@@ -23,3 +23,10 @@ sandbag
 simmer
 sunset
 surface
+table
+task
+transition
+triangulate
+unpack
+vector
+whiteboard
