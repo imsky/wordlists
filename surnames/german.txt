@@ -4,8 +4,8 @@ ackermann
 adam
 adler
 albert
-aleshire
 albrecht
+aleshire
 amsel
 andres
 auer
@@ -74,8 +74,6 @@ enns
 esser
 everhart
 fabel
-galk
-garber
 faust
 feld
 feldt
@@ -86,6 +84,7 @@ forst
 fromm
 fuchs
 gabler
+galk
 garb
 garber
 gartner
@@ -96,8 +95,8 @@ geissler
 gerber
 gerhard
 gerig
-gerver
 gerst
+gerver
 giehl
 giese
 glockner
@@ -167,8 +166,8 @@ klein
 knopf
 knopp
 koch
-kohl
 koenig
+kohl
 kopp
 kraemer
 kramer
@@ -176,7 +175,7 @@ krantz
 kraus
 kroger
 kron
-kurger
 kruse
 kuhn
 kuntz
+kurger
