@@ -1,0 +1,47 @@
+london
+new york
+hong kong
+paris
+singapore
+tokyo
+shanghai
+chicago
+dubai
+sydney
+milan
+beijing
+toronto
+sao paulo
+madrid
+mumbai
+los angeles
+moscow
+frankfurt
+mexico
+amsterdam
+buenos aires
+kuala lumpur
+seoul
+brussels
+jakarta
+san francisco
+washington d.c.
+miami
+dublin
+melbourne
+zurich
+new delhi
+munich
+istanbul
+boston
+warsaw
+dallas
+vienna
+atlanta
+barcelona
+bangkok
+taipei
+santiago
+lisbon
+philadelphia
+johannesburg
