@@ -1,0 +1,11 @@
+absolute
+abstract
+active
+acyclic
+adaptive
+amortized
+approximate
+associative
+asymptotic
+augmenting
+average
