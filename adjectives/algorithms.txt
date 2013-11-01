@@ -9,3 +9,20 @@ associative
 asymptotic
 augmenting
 average
+balanced
+best
+binary
+bipartite
+blocking
+boolean
+bounded
+brute force
+commutative
+complete
+concave
+concurrent
+connected
+constant
+counting
+covering
+cyclic
