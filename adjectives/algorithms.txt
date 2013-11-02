@@ -26,3 +26,14 @@ constant
 counting
 covering
 cyclic
+decidable
+deterministic
+dichotomic
+dyadic
+dynamic
+exact
+exhaustive
+exponential
+extended
+external
+extremal
