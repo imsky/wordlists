@@ -244,3 +244,17 @@ exhibit
 expense
 extension
 eyewitness
+fact
+factor
+family
+fee
+felon
+felony
+finding
+fitness
+flight
+forfeiture
+forgery
+forum
+franchise
+fraud
