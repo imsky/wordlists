@@ -22,3 +22,11 @@ author
 authorize
 aver
 award
+bail
+bargain
+bequeath
+bequest
+bid
+blackmail
+boycott
+breach
