@@ -35,8 +35,8 @@ challenge
 charge
 cite
 codify
-confess
 condemn
+confess
 consent
 consign
 construe
@@ -77,3 +77,8 @@ exculpate
 execute
 exonerate
 extradite
+file
+filibuster
+forfeit
+forge
+frisk
