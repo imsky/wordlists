@@ -40,3 +40,16 @@ syllable
 tongue
 transcription
 zero
+account
+addressee
+adjective
+adjunct
+adposition
+adverb
+agreement
+allegory
+allomorph
+allophone
+apostrophe
+aspect
+audience
