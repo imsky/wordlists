@@ -53,3 +53,17 @@ allophone
 apostrophe
 aspect
 audience
+case
+classifier
+clause
+command
+comment
+complement
+connective
+consonant
+definition
+delay
+determiner
+diphthong
+discourse
+distal
