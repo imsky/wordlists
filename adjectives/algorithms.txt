@@ -37,3 +37,10 @@ exponential
 extended
 external
 extremal
+factorial
+feasible
+finite
+fixed
+formal
+forward
+free
