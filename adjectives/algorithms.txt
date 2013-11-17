@@ -44,3 +44,11 @@ fixed
 formal
 forward
 free
+greedy
+hidden
+inclusive
+internal
+intractable
+inverse
+inverted
+isomorphic
