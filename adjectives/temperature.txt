@@ -1,0 +1,7 @@
+hot
+cold
+cool
+warm
+scalding
+blistering
+searing
