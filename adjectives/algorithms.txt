@@ -61,3 +61,16 @@ matching
 minimum
 maximum
 mode
+naive
+nearest
+nullary
+null
+nondeterministic
+objective
+offline
+online
+optimal
+ordered
+oriented
+orthogonal
+oscillating
