@@ -74,3 +74,11 @@ ordered
 oriented
 orthogonal
 oscillating
+parallel
+partial
+perfect
+persistent
+planar
+polynomial
+proper
+quadratic
