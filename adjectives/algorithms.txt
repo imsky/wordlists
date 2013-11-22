@@ -82,3 +82,17 @@ planar
 polynomial
 proper
 quadratic
+ragged
+random
+randomized
+rectilinear
+recursive
+reduced
+relaxed
+shortest
+simple
+sparse
+spatial
+square
+stable
+symmetric
