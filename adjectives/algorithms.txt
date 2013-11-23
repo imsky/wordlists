@@ -96,3 +96,15 @@ spatial
 square
 stable
 symmetric
+terminal
+ternary
+threaded
+tractable
+unary
+uniform
+undirected
+undecidable
+universal
+unsolvable
+unsorted
+visible
