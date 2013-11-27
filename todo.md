@@ -9,7 +9,6 @@ Nouns
 Adjectives
 --
 
-* Algorithms
 * Law
 * Corporate
 * Geometry
