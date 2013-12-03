@@ -1,0 +1,7 @@
+reflection
+refraction
+diffraction
+dispersion
+absorption
+scattering
+polarization
