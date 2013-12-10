@@ -37,6 +37,17 @@ hamburger
 ice
 juice
 ketchup
+kitchen
+lard
+liquor
+margarine
+marinade
+mayo
+mayonnaise
+meat
+milk
+mousse
+muffin
 tartar
 taste
 tea
