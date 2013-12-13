@@ -1,0 +1,12 @@
+cardinality
+complement
+element
+member
+pair
+partition
+set
+subset
+superset
+tuple
+union
+universe
