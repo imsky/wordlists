@@ -1101,18 +1101,14 @@ noble
 nokomis
 nora
 nordica
-norfolk rr access
 normal
 normandy
-norman r bobins
 north
 north branch
 northcott
 north park
 north shore
-north shore channel
 north water
-north water lower
 northwest
 norwood
 nottingham
@@ -1124,8 +1120,6 @@ oakley
 oak park
 oakview
 oakwood
-ob dan ryan
-ob northwest
 oconto
 octavia
 odell
@@ -1133,9 +1127,7 @@ ogallah
 ogden
 oglesby
 ohare
-ohare airport
 ohio
-ohio feeder
 oketo
 olcott
 old higgins
@@ -1149,7 +1141,6 @@ olympia
 onarga
 oneida
 ontario
-ontario feeder express lanes
 opal
 orange
 orchard
@@ -1210,10 +1201,8 @@ poe
 point
 polk
 pollock
-ponchartrain
 pontiac
 pool
-pope john paul ii
 poplar
 portland
 post
@@ -1239,10 +1228,6 @@ racine
 railroad
 rainey
 randolph
-randolph lower
-randolph lsd
-randolph st wacker
-randolph sub
 rascher
 raven
 ravenswood
