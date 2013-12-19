@@ -5,7 +5,6 @@ access
 ada
 adams
 addison
-administration
 agatite
 ainslie
 albany
@@ -77,7 +76,6 @@ belle plaine
 bellevue
 belmont
 belmont harbor
-belmont harbor access
 bennett
 bensley
 benson
@@ -97,15 +95,6 @@ birchwood
 birkhoff
 bishop
 bishop ford
-bishop ford 103rd st
-bishop ford 103rd st stony
-bishop ford 111th st
-bishop ford 115th st
-bishop ford 130th st
-bishop ford 137th st
-bishop ford expy
-bishop ford i57
-bishop ford stony island av
 bissell
 bittersweet
 blackhawk
@@ -168,7 +157,6 @@ campus
 canal
 canalport
 canfield
-canfield av jfk
 cannon
 carmen
 carondolet
@@ -197,24 +185,12 @@ cherry
 chester
 chestnut
 chicago
-chicago beach
-chicago river
-chicago skyway
-chicago skyway 73rd st
-chicago skyway 87th st
-chicago skyway ib chicago
-chicago skyway indianapolis av
-chicago skyway state st
-chicago skyway st lawrence av
-chicago skyway stony island av
-chicago skyway turnaround
 chicora
 childrens
 china
 christiana
 church
 churchill
-churchill row access
 cicero
 circle
 cityfront plaza
@@ -236,9 +212,6 @@ colfax
 college
 columbia
 columbus
-columbus lower
-columbus ramp
-columbus sub
 commercial
 commodore whalen
 commons
@@ -283,48 +256,6 @@ dakin
 damen
 daniel
 dan ryan
-dan ryan 18th st
-dan ryan 31st st
-dan ryan 35th st
-dan ryan 39th st
-dan ryan 43rd st
-dan ryan 47th st
-dan ryan 51st st
-dan ryan 53rd st
-dan ryan 55th st
-dan ryan 59th st
-dan ryan 63rd st
-dan ryan 71st st
-dan ryan 76th st
-dan ryan 79th
-dan ryan 79th st
-dan ryan 83rd st
-dan ryan 87th st
-dan ryan 95th st
-dan ryan canalport av
-dan ryan cermak
-dan ryan eisenhower
-dan ryan express
-dan ryan express franklin
-dan ryan franklin
-dan ryan i57
-dan ryan ib canalport av
-dan ryan ib eisenhower
-dan ryan ib eisenhower ob
-dan ryan ib franklin ext
-dan ryan ib stevenson
-dan ryan la salle st
-dan ryan local
-dan ryan marquette rd
-dan ryan michigan av
-dan ryan ob dan ryan
-dan ryan ob eisenhower ob
-dan ryan ob stevenson ib
-dan ryan ob stevenson ob
-dan ryan roosevelt rd
-dan ryan roosevelt st
-dan ryan taylor st
-dan ryan wentworth av
 dante
 dauphin
 davlin
