@@ -292,13 +292,10 @@ drake
 draper
 drew
 drexel
-drexel square
-dr martin luther king jr
 drummond
 dunbar
 early
 east circle
-east drive of oakley
 east end
 eastgate
 eastlake
@@ -326,32 +323,6 @@ edward
 edward barron
 eggleston
 eisenhower
-eisenhower ashland av
-eisenhower austin bv
-eisenhower california av
-eisenhower canal
-eisenhower canal st
-eisenhower central av
-eisenhower cicero av
-eisenhower damen av
-eisenhower expy
-eisenhower franklin st
-eisenhower homan av
-eisenhower ib dan ryan
-eisenhower ib dan ryan ob
-eisenhower ib kennedy ob
-eisenhower independence bl
-eisenhower kostner av
-eisenhower laramie av
-eisenhower morgan st
-eisenhower oakley bl
-eisenhower ob kennedy ob
-eisenhower paulina st
-eisenhower racine av
-eisenhower sacramento av
-eisenhower taylor st
-eisenhower wacker dr
-eisenhower western av
 elaine
 elbridge
 eleanor
@@ -423,7 +394,6 @@ foster
 francis
 francisco
 franklin
-franklin ext stevenson ob
 fremont
 front
 frontenac
@@ -558,29 +528,11 @@ huron
 hutchinson
 hyacinth
 hyde park
-i190
-i55 cicero av
-i55 damen av
-i55 damen st
-i55 kedzie av
-i55 pulaski rd
-i57
-i57 111th st
-i57 112th st
-i57 119th st
-i57 bishop ford expy
-i57 expy
-i57 ford 119th st
-i57 halsted st
-ib dan ryan
-ib eisenhower ob dan ryan
-ib northwest
 ibsen
 illinois
 illinois lower
 imlay
 independence
-indian
 indiana
 indianapolis
 ingleside
