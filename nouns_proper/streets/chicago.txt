@@ -546,7 +546,6 @@ irving park
 isham
 jackson
 james
-james m rochford
 janssen
 jarlath
 jarvis
@@ -584,57 +583,6 @@ kelso
 kemper
 kenmore
 kennedy
-kennedy adams st
-kennedy addison st
-kennedy armitage av
-kennedy augusta bl
-kennedy belmont av
-kennedy bryn mawr av
-kennedy california av
-kennedy central av
-kennedy cumberland av
-kennedy damen av
-kennedy diversey av
-kennedy division st
-kennedy express
-kennedy foster av
-kennedy fullerton av
-kennedy harlem av
-kennedy harlem av ib
-kennedy harlem av ob
-kennedy higgins rd
-kennedy ib
-kennedy ib eisenhower ib
-kennedy irving park rd
-kennedy jackson bl
-kennedy kedzie av
-kennedy keeler av
-kennedy kimball av
-kennedy kostner av
-kennedy lake st
-kennedy lawrence av
-kennedy logan bl
-kennedy madison st
-kennedy milwaukee av
-kennedy monroe st
-kennedy montrose av
-kennedy nagle av
-kennedy north av
-kennedy ob eisenhower ob
-kennedy ob jfk express lanes
-kennedy ogden av
-kennedy ohio feeder
-kennedy ontario st
-kennedy ontario st nb
-kennedy ontario st sb
-kennedy pulaski rd
-kennedy racine av
-kennedy randolph st
-kennedy sacramento av
-kennedy sayre av
-kennedy washington bl
-kennedy western av
-kennedy wilson av
 kenneth
 kennicott
 kennison
