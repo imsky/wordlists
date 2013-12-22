@@ -722,34 +722,6 @@ lowerlevelt1
 lowerlevelt2
 lowerlevelt3
 loyola
-lsd 18th dr
-lsd 31st st
-lsd 47th st
-lsd 53rd st
-lsd belmont av
-lsd bryn mawr av
-lsd columbus dr
-lsd fort dearborn
-lsd foster av
-lsd fullerton av
-lsd grand av
-lsd illinois st
-lsd irving park rd
-lsd la salle st
-lsd lawrence av
-lsd lsd wacker dr
-lsd michigan av
-lsd michigan avenue
-lsd moe dr
-lsd montrose av
-lsd nb stevenson ob
-lsd oakwood bl
-lsd randolph st
-lsd recreation dr
-lsd sb stevenson ob
-lsd wacker dr
-lsd wacker dr nb
-lsd wilson av
 lucerne
 ludlam
 luella
