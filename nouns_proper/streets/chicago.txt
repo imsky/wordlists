@@ -717,10 +717,6 @@ louie
 louise
 lovejoy
 lowe
-lowell
-lowerlevelt1
-lowerlevelt2
-lowerlevelt3
 loyola
 lucerne
 ludlam
@@ -810,7 +806,6 @@ menard
 mendell
 mendota
 menomonee
-merchandise mart
 meredith
 merrill
 merrimac
@@ -819,13 +814,6 @@ metron
 meyer
 miami
 michigan
-michigan lower
-midway airport
-midway airport cicero ave
-midway airport lower
-midway airport lower cicero ave
-midway park
-midway plaisance
 mies van der rohe
 mildred
 millard
@@ -1126,11 +1114,6 @@ southport
 south shore
 southspine
 south water
-south water lower
-south water market
-south water ramp
-south water ramp lower
-south water sub
 spaulding
 spine
 spokane
