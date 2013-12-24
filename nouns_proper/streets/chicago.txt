@@ -43,19 +43,6 @@ augusta
 austin
 austin av jfk
 avalon
-avenue b
-avenue c
-avenue d
-avenue e
-avenue f
-avenue g
-avenue h
-avenue j
-avenue k
-avenue l
-avenue m
-avenue n
-avenue o
 avers
 avondale
 baggot
@@ -128,7 +115,6 @@ brompton
 bross
 browning
 bryn mawr
-bryn mawr av lsd
 buckingham
 buena
 buffalo
@@ -148,8 +134,6 @@ caldwell
 calhoun
 california
 calumet
-calumet access
-calumet river
 cambridge
 campbell
 campbell park
@@ -630,8 +614,6 @@ lakefront
 lake lower
 lake park
 lake shore
-lake shore dr ramp
-lake shore lower
 lakeside
 lakeview
 lakewood
@@ -646,8 +628,6 @@ larchmont
 larned
 larrabee
 la salle
-la salle dr
-la salle lower
 las casas
 latham
 latrobe
@@ -1158,7 +1138,6 @@ st michaels
 stockton
 stone
 stony island
-stony island ext
 st paul
 stratford
 streeter
