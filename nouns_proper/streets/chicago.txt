@@ -291,14 +291,6 @@ eberhart
 edbrooke
 eddy
 edens
-edens caldwell
-edens caldwell av
-edens cicero av
-edens elston av
-edens foster av
-edens ob
-edens peterson av
-edens wilson av
 edgebrook
 edgewater
 edmaire
@@ -371,7 +363,6 @@ forest
 forest glen
 forest preserve
 forestview
-fork chicago river
 forrestville
 fort dearborn
 foster
@@ -635,7 +626,6 @@ lavergne
 lawler
 lawndale
 lawrence
-lawrence wilson
 leader
 leamington
 leavenworth
@@ -716,8 +706,6 @@ lytle
 mac chesney
 mackinaw
 madison
-madison park
-madison st
 magnet
 magnolia
 major
@@ -810,7 +798,6 @@ mohawk
 monitor
 monon
 monroe
-monsignor mcelligott
 montana
 mont clare
 monterey
@@ -846,8 +833,6 @@ natoma
 navajo
 naval armory
 navarre
-n branch canal
-n branch chicago river
 neenah
 nelson
 neola
