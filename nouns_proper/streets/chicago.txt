@@ -1088,28 +1088,10 @@ state
 state line
 stave
 st clair
-stephen a douglas
 stetson
-stetson lower
-stetson sub
 steuben
 stevens
 stevenson
-stevenson 25th st
-stevenson 31st st
-stevenson damen av
-stevenson dan ryan
-stevenson dan ryan ib
-stevenson expy
-stevenson franklin st
-stevenson ib dan ryan
-stevenson ib dan ryan ib
-stevenson ib dan ryan ob
-stevenson ib lsd nb
-stevenson ib lsd sb
-stevenson king dr
-stevenson ob dan ryan
-stevenson state st
 stewart
 st georges
 st helen
@@ -1164,9 +1146,6 @@ troy
 trumbull
 union
 university
-upperlevelt1
-upperlevelt2
-upperlevelt3
 urban
 van buren
 vanderpoel
@@ -1185,13 +1164,6 @@ wabansia
 wabash
 wabash lower
 wacker
-wacker dr lower
-wacker lower
-wacker nb lsd lower
-wacker ramp
-wacker ramp lower
-wacker sb lsd lower
-wacker sub
 walden
 waldron
 wall
@@ -1199,7 +1171,6 @@ wallace
 wallen
 waller
 walnut
-walter burley griffin
 walton
 warner
 warren
