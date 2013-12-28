@@ -104,7 +104,6 @@ bradley
 brainard
 brandon
 brayton
-breakwater access
 brennan
 briar
 brighton
@@ -122,7 +121,6 @@ burkhardt
 burley
 burling
 burnham
-burnham harbor
 burnside
 burton
 busse
@@ -197,7 +195,6 @@ college
 columbia
 columbus
 commercial
-commodore whalen
 commons
 commonwealth
 concord
@@ -257,13 +254,11 @@ deming
 denvir
 de saible
 desplaines
-des plaines river
 devon
 dewitt
 dickens
 dickinson
 diversey
-diversey school
 division
 dobson
 dominick
@@ -493,7 +488,6 @@ hoxie
 hoyne
 hoyt
 hubbard
-hubbard lower
 hudson
 humboldt
 hunt
@@ -505,7 +499,6 @@ hyacinth
 hyde park
 ibsen
 illinois
-illinois lower
 imlay
 independence
 indiana
@@ -602,7 +595,6 @@ laflin
 lake
 lake calumet harbor ent
 lakefront
-lake lower
 lake park
 lake shore
 lakeside
@@ -1162,7 +1154,6 @@ vine
 virginia
 wabansia
 wabash
-wabash lower
 wacker
 walden
 waldron
