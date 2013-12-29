@@ -1,7 +1,6 @@
 abbott
 aberdeen
 academy
-access
 ada
 adams
 addison
@@ -62,7 +61,6 @@ bell
 belle plaine
 bellevue
 belmont
-belmont harbor
 bennett
 bensley
 benson
@@ -593,7 +591,6 @@ la crosse
 lafayette
 laflin
 lake
-lake calumet harbor ent
 lakefront
 lake park
 lake shore
@@ -653,8 +650,6 @@ linden
 linder
 lipps
 lister
-lithuanian plaza
-little calumet river
 lituanica
 livermore
 lloyd
@@ -720,7 +715,6 @@ margate
 maria
 marine
 marion
-marketplace access
 markham
 marmora
 marquette
@@ -744,8 +738,6 @@ mcclellan
 mcclurg
 mccook
 mccormick
-mccormick place
-mccormick pl busway
 mccrea
 mccutcheon
 mcdermott
@@ -796,7 +788,6 @@ monterey
 montgomery
 monticello
 montrose
-montrose harbor
 montvale
 moody
 moorman
