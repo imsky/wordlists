@@ -353,8 +353,6 @@ ford city
 ford city dr
 foreman
 forest
-forest glen
-forest preserve
 forestview
 forrestville
 fort dearborn
@@ -370,11 +368,9 @@ fry
 fuller
 fullerton
 fulton
-fulton market
 gale
 galewood
 garfield
-garfield square
 garland
 garvey
 geneva
@@ -508,7 +504,6 @@ iowa
 irene
 iron
 irving
-irving park
 isham
 jackson
 james
@@ -526,7 +521,6 @@ jessie
 johnson
 jones
 jonquil
-jourdan
 joyce
 julia
 julian
@@ -573,8 +567,6 @@ kimberly
 kingsbury
 kingsdale
 kingston
-kinzie
-kinzua
 kiona
 kirby
 kirkland
@@ -678,7 +670,6 @@ loyola
 lucerne
 ludlam
 luella
-luis munoz marin
 lumber
 luna
 lundy
