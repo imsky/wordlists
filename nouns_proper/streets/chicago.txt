@@ -221,11 +221,6 @@ crosby
 crowell
 crystal
 crystal creek
-cta 69th st
-cta 95th st
-cta bus
-cta bus turn
-cta bus turnaround
 cullerton
 cullom
 cumberland
@@ -860,9 +855,6 @@ ohare
 ohio
 oketo
 olcott
-old higgins
-old lake shore
-old town
 oleander
 oliphant
 olive
