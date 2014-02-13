@@ -343,3 +343,10 @@ mistrial
 motive
 murder
 mugging
+notice
+notary
+note
+novelty
+nuisance
+negligence
+negotiation
