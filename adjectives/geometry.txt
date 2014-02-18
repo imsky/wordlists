@@ -7,9 +7,9 @@ collinear
 composite
 concave
 concentric
-congruent convex
+congruent
+convex
 coplanar
-degenerate
 diagonal
 distinct
 equidistant
@@ -19,3 +19,11 @@ horizontal
 inscribed
 interior
 linear
+oblique
+obtuse
+parallel
+perpendicular
+regular
+right
+similar
+vertical

@@ -23,6 +23,7 @@ simulate
 sketch
 skew
 subdivide
+sweep
 texture
 trace
 transform
