@@ -29,3 +29,5 @@ sidewalk
 terrace
 tunnel
 underpass
+median
+curb
