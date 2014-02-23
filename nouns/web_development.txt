@@ -1,6 +1,7 @@
 action
 alert
 align
+area
 app
 buffer
 bug
@@ -10,6 +11,7 @@ click
 code
 data
 debug
+document
 domain
 download
 dynamic
