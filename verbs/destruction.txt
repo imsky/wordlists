@@ -11,3 +11,8 @@ shatter
 splinter
 split
 squash
+wreck
+smash
+crack
+erase
+detonate
