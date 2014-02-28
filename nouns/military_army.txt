@@ -75,5 +75,4 @@ sword
 tank
 torpedo
 trench
-
 withdrawal
