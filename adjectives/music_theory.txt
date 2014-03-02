@@ -1,6 +1,6 @@
+adagio
 allegro
 andante
-adagio
 espressivo
 grandioso
 grave
@@ -9,7 +9,7 @@ legato
 libretto
 moderato
 molto
+pizzicato
 presto
 staccato
 vibrato
-pizzicato
