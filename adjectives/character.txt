@@ -6,6 +6,7 @@ brute
 callous
 charitable
 courtly
+cruel
 elegant
 ferocious
 forgiving
@@ -31,4 +32,3 @@ stern
 urbane
 vicious
 violent
-vruel

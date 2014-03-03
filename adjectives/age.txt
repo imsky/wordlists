@@ -1,5 +1,6 @@
 advanced
 aged
+ancient
 antique
 archaic
 common
@@ -8,6 +9,8 @@ current
 frayed
 fresh
 grizzled
+hoary
+immature
 juvenile
 mature
 modern
@@ -27,6 +30,3 @@ trite
 vintage
 worn
 young
-immature
-hoary
-ancient
