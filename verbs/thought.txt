@@ -7,7 +7,6 @@ meditate
 mull
 plan
 ponder
-pore
 reason
 reflect
 speculate

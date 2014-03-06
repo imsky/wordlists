@@ -7,6 +7,7 @@ close
 connect
 download
 log
+load
 open
 receive
 scroll
