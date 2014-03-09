@@ -21,6 +21,7 @@ frequency
 gain
 hook
 hour
+ident
 inflection
 interference
 jingle
@@ -32,6 +33,7 @@ monitor
 narrator
 pitch
 player
+playlist
 pot
 producer
 programming
@@ -41,12 +43,14 @@ radio
 ramp
 rating
 remote
+rundown
 segue
 share
 simulcast
 spot
 stager
-stinger
+sting
 sweeper
+teaser
 transmitter
 turntable
