@@ -1,366 +1,365 @@
-appropriately
-assertively
-authoritatively
-collaboratively
-compellingly
-competently
-completely
-continually
-conveniently
-credibly
-distinctively
-dramatically
-dynamically
-efficiently
-energistically
-enthusiastically
-globally
-holisticly
-interactively
-intrinsicly
-monotonectally
-objectively
-phosfluorescently
-proactively
-professionally
-progressively
-quickly
-rapidiously
-seamlessly
-synergistically
-uniquely
+2.0
+24/365
+24/7
+accurate
+action items
 actualize
+adaptive
 administrate
 aggregate
+alignments
+alternative
+an expanded array of
+applications
+appropriately
 architect
+architectures
+assertively
+authoritatively
+B2B
+B2C
+backend
+backward-compatible
+bandwidth
 benchmark
+benefits
+best-of-breed
+best practices
+bleeding-edge
 brand
+bricks-and-clicks
 build
+business
+catalysts for change
+channels
+clicks-and-mortar
+client-based
+client-centered
+client-centric
+client-focused
+collaboration and idea-sharing
+collaborative
+collaboratively
 communicate
+communities
+compelling
+compellingly
+competently
+competitive
+completely
 conceptualize
+content
+continually
+conveniently
+convergence
+cooperative
 coordinate
+core competencies
+corporate
+cost effective
+covalent
 create
+credibly
+cross functional
+cross-media
+cross-platform
+cross-unit
 cultivate
+customer directed
+customer service
 customize
+customized
+cutting-edge
+data
 deliver
+deliverables
 deploy
 develop
 disintermediate
 disseminate
+distinctive
+distinctively
+distributed
+diverse
+dramatically
 drive
-embrace
+dynamic
+dynamically
+e-business
+e-commerce
+economically sound
 e-enable
+effective
+efficient
+efficiently
+e-markets
+embrace
+emerging
 empower
+empowered
 enable
+enabled
+end-to-end
+energistically
 engage
 engineer
 enhance
+enterprise
+enterprise-wide
+enthusiastically
 envisioneer
+equity invested
+error-free
+e-services
+e-tailers
+ethical
 evisculate
 evolve
+excellent
+exceptional
 expedite
+experiences
+expertise
 exploit
 extend
+extensible
+extensive
 fabricate
 facilitate
 fashion
+flexible
+focused
 formulate
 foster
+frictionless
+front-end
+fully researched
+fully tested
+functional
+functionalities
+functionalized
+future-proof
 generate
+global
+globally
+goal-oriented
+go forward
+granular
 grow
+growth strategies
 harness
+highly efficient
+high-payoff
+high-quality
+high standards in
+holistic
+holisticly
+human capital
+ideas
 impact
+impactful
+imperatives
 implement
 incentivize
 incubate
+inexpensive
+infomediaries
+information
+infrastructures
 initiate
+initiatives
 innovate
+innovation
+innovative
+installed base
 integrate
+integrated
+intellectual capital
+interactive
+interactively
+interdependent
+interfaces
+intermandated
+internal or "organic" sources
+interoperable
+intrinsicly
+intuitive
 iterate
+just in time
+leadership
+leadership skills
+leading-edge
+leveraged
 leverage existing
 leverage other's
+long-term high-impact
+low-risk high-yield
+magnetic
 maintain
+maintainable
+manufactured products
+market-driven
+market positioning
+markets
+materials
 matrix
 maximize
 mesh
+meta-services
+methodologies
+methods of empowerment
+metrics
+mindshare
+mission-critical
+models
 monetize
+monotonectally
 morph
+multidisciplinary
+multifunctional
+multimedia based
 myocardinate
 negotiate
 network
+networks
+next-generation
+niche markets
+niches
+objectively
+one-to-one
+open-source
+opportunities
+optimal
 optimize
 orchestrate
+orthogonal
+out-of-the-box
+outsourcing
+pandemic
+paradigms
+parallel
 parallel task
+partnerships
+performance based
+phosfluorescently
 plagiarize
+platforms
+plug-and-play
 pontificate
+portals
+potentialities
 predominate
+premier
+premium
+principle-centered
+proactive
+proactively
+process-centric
+processes
+process improvements
 procrastinate
 productivate
 productize
+products
+professional
+professionally
+progressive
+progressively
 promote
+prospective
 provide access to
 pursue
+quality
+quality vectors
+quickly
+rapidiously
+real-time
 recaptiualize
 reconceptualize
 redefine
 re-engineer
 reintermediate
 reinvent
-repurpose
-restore
-revolutionize
-scale
-seize
-simplify
-strategize
-streamline
-supply
-syndicate
-synergize
-synthesize
-target
-transform
-transition
-underwhelm
-unleash
-utilize
-visualize
-whiteboard
-24/7
-24/365
-accurate
-adaptive
-alternative
-an expanded array of
-B2B
-B2C
-backend
-backward-compatible
-best-of-breed
-bleeding-edge
-bricks-and-clicks
-business
-clicks-and-mortar
-client-based
-client-centered
-client-centric
-client-focused
-collaborative
-compelling
-competitive
-cooperative
-corporate
-cost effective
-covalent
-cross functional
-cross-media
-cross-platform
-cross-unit
-customer directed
-customized
-cutting-edge
-distinctive
-distributed
-diverse
-dynamic
-e-business
-economically sound
-effective
-efficient
-emerging
-empowered
-enabled
-end-to-end
-enterprise
-enterprise-wide
-equity invested
-error-free
-ethical
-excellent
-exceptional
-extensible
-extensive
-flexible
-focused
-frictionless
-front-end
-fully researched
-fully tested
-functional
-functionalized
-future-proof
-global
-go forward
-goal-oriented
-granular
-high standards in
-high-payoff
-high-quality
-highly efficient
-holistic
-impactful
-inexpensive
-innovative
-installed base
-integrated
-interactive
-interdependent
-intermandated
-interoperable
-intuitive
-just in time
-leading-edge
-leveraged
-long-term high-impact
-low-risk high-yield
-magnetic
-maintainable
-market positioning
-market-driven
-mission-critical
-multidisciplinary
-multifunctional
-multimedia based
-next-generation
-one-to-one
-open-source
-optimal
-orthogonal
-out-of-the-box
-pandemic
-parallel
-performance based
-plug-and-play
-premier
-premium
-principle-centered
-proactive
-process-centric
-professional
-progressive
-prospective
-quality
-real-time
+relationships
 reliable
-resource sucking
-resource maximizing
+repurpose
 resource-leveling
+resource maximizing
+resources
+resource sucking
+restore
+results
 revolutionary
+revolutionize
 robust
+ROI
 scalable
+scale
+scenarios
+schemas
 seamless
+seamlessly
+seize
+services
+simplify
+solutions
+sources
 stand-alone
 standardized
 standards compliant
 state of the art
 sticky
 strategic
+strategic theme areas
+strategize
+streamline
 superior
+supply
+supply chains
 sustainable
+syndicate
 synergistic
+synergistically
+synergize
+synergy
+synthesize
+systems
 tactical
+target
 team building
 team driven
 technically sound
+technologies
+technology
+testing procedures
 timely
 top-line
+total linkage
+transform
+transition
 transparent
 turnkey
 ubiquitous
+underwhelm
 unique
+uniquely
+unleash
 user-centric
 user friendly
+users
+utilize
+value
 value-added
 vertical
 viral
 virtual
 visionary
+visualize
+vortals
 web-enabled
+web-readiness
+web services
+whiteboard
 wireless
 world-class
 worldwide
-2.0
-action items
-alignments
-applications
-architectures
-bandwidth
-benefits
-best practices
-catalysts for change
-channels
-collaboration and idea-sharing
-communities
-content
-convergence
-core competencies
-customer service
-data
-deliverables
-e-business
-e-commerce
-e-markets
-e-tailers
-e-services
-experiences
-expertise
-functionalities
-growth strategies
-human capital
-ideas
-imperatives
-infomediaries
-information
-infrastructures
-initiatives
-innovation
-intellectual capital
-interfaces
-internal or "organic" sources
-leadership
-leadership skills
-manufactured products
-markets
-materials
-meta-services
-methodologies
-methods of empowerment
-metrics
-mindshare
-models
-networks
-niches
-niche markets
-opportunities
-outsourcing
-paradigms
-partnerships
-platforms
-portals
-potentialities
-process improvements
-processes
-products
-quality vectors
-relationships
-resources
-results
-ROI
-scenarios
-schemas
-services
-solutions
-sources
-strategic theme areas
-supply chains
-synergy
-systems
-technologies
-technology
-testing procedures
-total linkage
-users
-value
-vortals
-web-readiness
-web services
