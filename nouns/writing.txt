@@ -7,3 +7,11 @@ antagonist
 anthology
 assignment
 autobiography
+backlist
+bibliography
+biography
+boilerplate
+byline
+canon
+cliche
+copyright
