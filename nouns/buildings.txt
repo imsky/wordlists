@@ -13,7 +13,6 @@ cabana
 cabin
 cafe
 capitol
-castle
 cathedral
 chalet
 chapel
@@ -45,7 +44,6 @@ igloo
 jail
 kiosk
 laboratory
-library
 library
 lodge
 mall
