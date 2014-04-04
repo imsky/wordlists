@@ -10,7 +10,6 @@ barracks
 bridge
 bunker
 cabana
-cabin
 cafe
 capitol
 cathedral
@@ -40,7 +39,6 @@ hostel
 hotel
 house
 hut
-igloo
 jail
 kiosk
 laboratory
@@ -48,7 +46,6 @@ library
 lodge
 mall
 manor
-mansion
 marina
 market
 mill

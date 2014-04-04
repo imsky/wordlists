@@ -1,3 +1,7 @@
 bungalow
 castle
 cottage
+chateau
+igloo
+cabin
+mansion
