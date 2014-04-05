@@ -5,3 +5,17 @@ chateau
 igloo
 cabin
 mansion
+ranch
+shack
+villa
+apartment
+brownstone
+rowhouse
+condominium
+loft
+tenement
+townhouse
+tent
+studio
+hut
+house

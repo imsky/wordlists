@@ -37,8 +37,6 @@ hangar
 hospital
 hostel
 hotel
-house
-hut
 jail
 kiosk
 laboratory
@@ -60,12 +58,10 @@ palace
 pavilion
 plant
 prison
-ranch
 rectory
 refinery
 restaurant
 school
-shack
 shed
 shrine
 silo
@@ -75,9 +71,7 @@ stable
 stadium
 station
 store
-studio
 temple
-tent
 terminal
 theater
 theater
@@ -85,4 +79,3 @@ tower
 triplex
 university
 vault
-villa
