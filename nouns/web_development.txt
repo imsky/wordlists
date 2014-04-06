@@ -1,15 +1,13 @@
 action
 alert
 align
-area
 app
+area
 buffer
 bug
 button
 chart
 click
-code
-data
 debug
 document
 domain
@@ -24,7 +22,6 @@ fixed
 float
 fork
 frame
-function
 gallery
 git
 graph
@@ -33,7 +30,6 @@ host
 inline
 interval
 keyword
-lint
 load
 mirror
 modal
@@ -51,7 +47,6 @@ reload
 script
 search
 shim
-snippet
 source
 static
 stream
