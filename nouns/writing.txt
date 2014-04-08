@@ -15,3 +15,12 @@ byline
 canon
 cliche
 copyright
+deadline
+denotation
+denouement
+dialogue
+diction
+draft
+editor
+editorial
+epigram
