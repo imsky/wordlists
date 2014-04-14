@@ -23,6 +23,5 @@ rainy
 smoggy
 snowy
 sunny
-terrible
 warm
 windy

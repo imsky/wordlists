@@ -5,3 +5,9 @@ warm
 scalding
 blistering
 searing
+chill
+icy
+frosty
+frigid
+burning
+freezing
