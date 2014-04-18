@@ -118,3 +118,10 @@ offer
 offset
 order
 overrule
+pander
+pardon
+patent
+pawn
+permit
+petition
+plead
