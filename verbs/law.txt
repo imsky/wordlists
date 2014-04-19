@@ -125,3 +125,9 @@ pawn
 permit
 petition
 plead
+poll
+practice
+proffer
+protest
+prove
+publish
