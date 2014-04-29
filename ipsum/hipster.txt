@@ -27,7 +27,6 @@ echo park
 ethical
 etsy
 fanny pack
-fap
 farm-to-table
 fixie
 food truck
