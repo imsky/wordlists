@@ -12,6 +12,7 @@ bucket
 buffer
 cage
 camera
+clip
 cloth
 collision
 color
@@ -34,16 +35,20 @@ fluid
 font
 force
 frame
+fur
 geometry
 ghost
 graph
 gravity
 group
+hair
 helper
 highlight
 horizon
 hull
+image
 intensity
+integrator
 keyframe
 lamp
 lattice
@@ -58,6 +63,7 @@ map
 material
 mesh
 metaball
+model
 motion
 node
 object
@@ -95,6 +101,7 @@ sphere
 spline
 spot
 surface
+tangent
 teapot
 text
 texture
