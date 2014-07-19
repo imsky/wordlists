@@ -10,13 +10,16 @@ facet
 filament
 filler
 frog
+mesh
 model
 monomer
 motor
+overhang
 printer
 raft
 resolution
 sheet
+shell
 slice
 step
 structure
