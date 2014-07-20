@@ -1,12 +1,15 @@
+cabriolet
 car
 convertible
 coupe
 dragster
 hatchback
 hearse
+hotrod
 humvee
 hybrid
 jeep
+landaulet
 limo
 limousine
 minivan
@@ -17,3 +20,4 @@ suv
 taxi
 truck
 van
+wagon
