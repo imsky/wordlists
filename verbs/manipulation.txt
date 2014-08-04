@@ -26,3 +26,8 @@ throw
 trash
 tweak
 widen
+turn
+extend
+shrink
+stretch
+compress
