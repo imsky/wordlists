@@ -11,3 +11,7 @@ herd
 mass
 pluck
 unite
+assemble
+amass
+stockpile
+hoard
