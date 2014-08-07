@@ -39,3 +39,6 @@ trim
 truncate
 tweak
 zoom
+mix
+cut
+paste
