@@ -27,3 +27,4 @@ sweep
 texture
 trace
 transform
+rig

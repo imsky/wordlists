@@ -26,3 +26,6 @@ stammer
 talk
 text
 whisper
+express
+remark
+yak

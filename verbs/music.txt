@@ -15,3 +15,4 @@ strike
 tune
 vocalize
 yodel
+perform
