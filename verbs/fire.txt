@@ -16,3 +16,4 @@ smolder
 swelter
 toast
 torch
+kindle

@@ -13,3 +13,6 @@ sear
 simmer
 steam
 toast
+thaw
+microwave
+heat
