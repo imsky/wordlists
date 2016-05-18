@@ -3,3 +3,10 @@ oak
 maple
 walnut
 acacia
+pine
+fir
+cedar
+ash
+mahogany
+poplar
+teak
