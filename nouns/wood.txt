@@ -10,3 +10,10 @@ ash
 mahogany
 poplar
 teak
+cherry
+hickory
+beech
+spruce
+sycamore
+cocobolo
+bamboo
