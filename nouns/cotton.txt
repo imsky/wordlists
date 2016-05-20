@@ -4,3 +4,13 @@ velour
 terry
 poplin
 voile
+denim
+plisse
+pointelle
+pinstripe
+plaid
+pique
+oxford
+moleskin
+jersey
+jacquard
