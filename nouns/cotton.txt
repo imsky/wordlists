@@ -14,3 +14,15 @@ oxford
 moleskin
 jersey
 jacquard
+heather
+gabardine
+gingham
+fleece
+flannel
+denim
+chino
+corduroy
+damask
+chenille
+chambray
+canvas
