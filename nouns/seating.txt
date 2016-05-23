@@ -1,0 +1,7 @@
+loveseat
+chaise
+chair
+sofa
+couch
+sectional
+futon
