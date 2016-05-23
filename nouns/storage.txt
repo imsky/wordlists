@@ -1,0 +1,5 @@
+bookcase
+bookshelf
+cabinet
+sideboard
+buffet
