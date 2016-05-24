@@ -1,7 +1,7 @@
-loveseat
-chaise
 chair
-sofa
+chaise
 couch
-sectional
 futon
+loveseat
+sectional
+sofa
