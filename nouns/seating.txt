@@ -5,3 +5,4 @@ futon
 loveseat
 sectional
 sofa
+bench
