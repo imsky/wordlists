@@ -31,3 +31,6 @@ tree
 upstream
 user
 version
+rebase
+merge
+squash
