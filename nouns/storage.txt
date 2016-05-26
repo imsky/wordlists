@@ -1,7 +1,7 @@
 bookcase
 bookshelf
-cabinet
-sideboard
 buffet
-credenza
 bureau
+cabinet
+credenza
+sideboard

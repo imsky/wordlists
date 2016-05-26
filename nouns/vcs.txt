@@ -15,13 +15,16 @@ head
 index
 log
 mercury
+merge
 module
 object
 patch
+rebase
 remote
 repo
 repository
 request
+squash
 staging
 status
 submodule
@@ -31,6 +34,3 @@ tree
 upstream
 user
 version
-rebase
-merge
-squash

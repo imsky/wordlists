@@ -1,3 +1,4 @@
+bench
 chair
 chaise
 couch
@@ -5,4 +6,3 @@ futon
 loveseat
 sectional
 sofa
-bench
