@@ -3,5 +3,6 @@ bookshelf
 buffet
 bureau
 cabinet
+chest
 credenza
 sideboard
