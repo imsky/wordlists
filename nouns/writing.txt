@@ -24,3 +24,12 @@ draft
 editor
 editorial
 epigram
+euphemism
+formatting
+frontlist
+genre
+haiku
+hardcover
+hook
+imprint
+journal
