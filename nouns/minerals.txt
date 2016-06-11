@@ -1,3 +1,6 @@
 agate
 bismuth
 quartz
+emerald
+graphite
+halite
