@@ -12,6 +12,7 @@ deal
 design
 entrepreneur
 equity
+exit
 founder
 funding
 growth
@@ -20,11 +21,13 @@ influencer
 interface
 investor
 iteration
+liquidation
 market
 mobile
 model
 pitch
 plan
+preference
 round
 space
 startup
