@@ -1,14 +1,17 @@
 amber
 auburn
 avocado
+aquamarine
 azure
 beige
+bisque
 black
 blue
 bone
 brass
 bronze
 brown
+canary
 celeste
 cerulean
 charcoal
@@ -48,6 +51,7 @@ pink
 plum
 purple
 red
+salmon
 sienna
 silver
 snow

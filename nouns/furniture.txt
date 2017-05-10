@@ -6,6 +6,7 @@ couch
 futon
 loveseat
 ottoman
+pouf
 sectional
 settee
 sofa

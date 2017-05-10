@@ -8,13 +8,16 @@ civet
 cobra
 cougar
 coyote
+crocodile
 dingo
 eagle
 eel
 fossa
 fox
+human
 jackal
 jaguar
+komodo
 leopard
 lion
 lynx
