@@ -1,0 +1,17 @@
+scale
+flip
+transform
+rotate
+invert
+tweak
+warp
+trim
+stretch
+fill
+extract
+delete
+clear
+paste
+replace
+translate
+skew
