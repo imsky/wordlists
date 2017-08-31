@@ -1,4 +1,5 @@
 aroma
+bagel
 batter
 beans
 beer
@@ -20,6 +21,8 @@ cocoa
 coffee
 cookie
 cream
+croissant
+crumble
 cuisine
 curd
 dessert
@@ -30,6 +33,7 @@ entree
 filet
 fish
 flour
+foie gras
 food
 glaze
 grill
@@ -62,7 +66,9 @@ pie
 pizza
 plate
 pot
+poutine
 pudding
+raclette
 recipe
 rice
 salad
