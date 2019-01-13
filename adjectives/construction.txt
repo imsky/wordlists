@@ -12,6 +12,7 @@ laminated
 level
 plumb
 radial
+rigid
 soluble
 tempered
 warped

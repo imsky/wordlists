@@ -3,7 +3,6 @@ aged
 ancient
 antique
 archaic
-common
 contemporary
 current
 frayed
@@ -20,6 +19,7 @@ obsolete
 old
 primordial
 ragged
+raw
 recent
 senile
 shabby

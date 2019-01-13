@@ -35,7 +35,7 @@ funny
 generous
 genteel
 gentle
-gentle
+graceful
 grim
 grouchy
 happy
@@ -62,12 +62,14 @@ neat
 nervous
 obliging
 obnoxious
+odious
 patient
 plain
 pleasant
 polite
 proper
 proud
+quick
 quiet
 refined
 relaxed
@@ -78,6 +80,7 @@ savage
 selfish
 sensitive
 serious
+shrewd
 silly
 simple
 smart

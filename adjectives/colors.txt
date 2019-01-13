@@ -1,4 +1,6 @@
 amber
+ash
+asphalt
 auburn
 avocado
 aquamarine
@@ -8,12 +10,17 @@ bisque
 black
 blue
 bone
+bordeaux
 brass
 bronze
 brown
+burgundy
+camel
+caramel
 canary
 celeste
 cerulean
+champagne
 charcoal
 chartreuse
 chestnut
@@ -31,6 +38,7 @@ cyan
 denim
 desert
 ebony
+ecru
 emerald
 feldspar
 fuchsia
@@ -40,10 +48,12 @@ green
 heather
 indigo
 ivory
+jet
 khaki
 lime
 magenta
 maroon
+mint
 navy
 olive
 orange
@@ -51,6 +61,7 @@ pink
 plum
 purple
 red
+rust
 salmon
 sienna
 silver

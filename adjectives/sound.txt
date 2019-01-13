@@ -9,6 +9,7 @@ loud
 muffled
 mute
 noisy
+piercing
 quiet
 roaring
 rowdy

@@ -12,6 +12,7 @@ pointed
 round
 rounded
 skinny
+slim
 solid
 straight
 thick

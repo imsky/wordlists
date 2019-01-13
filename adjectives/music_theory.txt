@@ -1,6 +1,7 @@
 adagio
 allegro
 andante
+animato
 espressivo
 grandioso
 grave

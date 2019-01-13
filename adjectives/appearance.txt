@@ -12,6 +12,7 @@ flat
 glossy
 glowing
 light
+matte
 muted
 pale
 pallid
@@ -22,3 +23,5 @@ sunny
 vibrant
 vivid
 wan
+weathered
+worn

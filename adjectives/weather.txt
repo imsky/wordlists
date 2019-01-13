@@ -1,3 +1,4 @@
+arctic
 arid
 breezy
 calm
@@ -25,3 +26,4 @@ snowy
 sunny
 warm
 windy
+wintry

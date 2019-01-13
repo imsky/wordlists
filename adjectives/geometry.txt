@@ -18,6 +18,7 @@ fixed
 horizontal
 inscribed
 interior
+irregular
 linear
 oblique
 obtuse

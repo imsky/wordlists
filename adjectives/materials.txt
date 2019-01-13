@@ -16,6 +16,7 @@ silver
 steel
 stone
 watery
+wicker
 wood
 wooden
 woolen

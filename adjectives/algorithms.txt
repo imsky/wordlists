@@ -5,6 +5,7 @@ acyclic
 adaptive
 amortized
 approximate
+ascent
 associative
 asymptotic
 augmenting
@@ -27,6 +28,7 @@ counting
 covering
 cyclic
 decidable
+descent
 deterministic
 dichotomic
 dyadic
@@ -95,6 +97,7 @@ sparse
 spatial
 square
 stable
+swarm
 symmetric
 terminal
 ternary

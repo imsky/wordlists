@@ -5,10 +5,11 @@ complex
 complicated
 convoluted
 direct
-fancy
-intricate
 easy
+elaborate
+fancy
 hard
+intricate
 obvious
 plain
 pure
