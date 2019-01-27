@@ -1,4 +1,6 @@
 aggregate
+amass
+assemble
 capture
 cluster
 collect
@@ -8,10 +10,8 @@ draw
 gather
 group
 herd
+hoard
 mass
 pluck
-unite
-assemble
-amass
 stockpile
-hoard
+unite

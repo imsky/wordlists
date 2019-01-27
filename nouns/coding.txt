@@ -1,3 +1,5 @@
+argument
+block
 code
 comment
 data
@@ -13,6 +15,9 @@ method
 name
 number
 object
+parameter
+process
+scope
 snippet
 string
 syntax

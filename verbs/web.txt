@@ -6,9 +6,13 @@ click
 close
 connect
 download
-log
+drag
+link
 load
+log
+message
 open
+post
 receive
 scroll
 search
@@ -16,4 +20,5 @@ send
 share
 type
 upload
+view
 visit

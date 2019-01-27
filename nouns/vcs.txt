@@ -10,6 +10,7 @@ conflict
 daemon
 diff
 fork
+fossil
 git
 head
 index

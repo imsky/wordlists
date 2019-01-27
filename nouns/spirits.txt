@@ -1,10 +1,10 @@
 bourbon
 brandy
+cognac
 gin
 liqueur
 rum
 scotch
 tequila
 vodka
-whiskey
-cognac
+whisky
