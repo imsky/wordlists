@@ -17,6 +17,7 @@ lemon
 lime
 mango
 melon
+mulberry
 nectarine
 orange
 papaya
