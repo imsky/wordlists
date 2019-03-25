@@ -1,0 +1,6 @@
+calgary
+edmonton
+montreal
+ottawa
+toronto
+vancouver
