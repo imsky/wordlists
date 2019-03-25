@@ -5,6 +5,7 @@ buffer
 container
 deque
 dictionary
+field
 filter
 graph
 hash
@@ -25,3 +26,4 @@ tree
 trie
 union
 vector
+zipper

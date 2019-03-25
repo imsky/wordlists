@@ -23,6 +23,7 @@ ornery
 rosy
 sad
 scared
+seething
 shy
 sunny
 tense
