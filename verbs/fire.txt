@@ -5,6 +5,7 @@ broil
 burn
 char
 ignite
+kindle
 light
 melt
 parch
@@ -16,4 +17,3 @@ smolder
 swelter
 toast
 torch
-kindle
