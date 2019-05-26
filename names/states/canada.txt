@@ -1,10 +1,10 @@
-ontario
-quebec
-nova scotia
-new brunswick
-manitoba
-british columbia
-prince edward island
-saskatchewan
-alberta
-newfoundland
+Ontario
+Quebec
+Nova Scotia
+New Brunswick
+Manitoba
+British Columbia
+Prince Edward Island
+Saskatchewan
+Alberta
+Newfoundland
