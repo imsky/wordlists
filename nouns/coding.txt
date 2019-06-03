@@ -5,11 +5,9 @@ comment
 data
 float
 function
-inline
 integer
 keyword
 line
-lint
 literal
 method
 name

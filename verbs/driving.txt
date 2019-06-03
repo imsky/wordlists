@@ -1,0 +1,16 @@
+accelerate
+brake
+coast
+detour
+drive
+exit
+handle
+merge
+pass
+rev
+shift
+skid
+stall
+stop
+tail
+turn
