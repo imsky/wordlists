@@ -2,6 +2,7 @@ accelerator
 acquisition
 angel
 beta
+burn
 capital
 capitalist
 cloud
@@ -9,6 +10,7 @@ content
 crowd
 customer
 deal
+deck
 design
 entrepreneur
 equity
@@ -25,17 +27,18 @@ liquidation
 market
 mobile
 model
+option
 pitch
 plan
 preference
 round
+seed
 space
+stage
 startup
+strategy
 team
 user
 valuation
 venture
 wireframe
-stage
-deck
-seed

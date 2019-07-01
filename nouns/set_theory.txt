@@ -1,9 +1,13 @@
 cardinality
+class
 complement
 element
+limit
 member
 pair
 partition
+poset
+powerset
 set
 subset
 superset
