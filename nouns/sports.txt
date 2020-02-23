@@ -89,7 +89,6 @@ referee
 relay
 ride
 rink
-rink
 row
 rower
 sail

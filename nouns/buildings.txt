@@ -75,7 +75,6 @@ store
 temple
 terminal
 theater
-theater
 tower
 triplex
 university

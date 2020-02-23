@@ -59,7 +59,6 @@ mean
 median
 mode
 model
-reduction
 node
 negation
 null

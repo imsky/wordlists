@@ -2,7 +2,6 @@ arcade
 arch
 archway
 balcony
-balcony
 baluster
 balustrade
 belvedere
