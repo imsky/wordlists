@@ -1,7 +1,6 @@
 aqueduct
 bridge
 canal
-canal
 cistern
 dam
 levee

@@ -6,7 +6,6 @@ chino
 corduroy
 damask
 denim
-denim
 flannel
 fleece
 gabardine

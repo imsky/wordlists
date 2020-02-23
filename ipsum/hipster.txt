@@ -75,7 +75,6 @@ squid
 stumptown
 sriracha
 Gowanus
-Greenpoint
 Complex
 performance art
 improv

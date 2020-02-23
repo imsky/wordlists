@@ -5,7 +5,6 @@ crush
 demolish
 destroy
 detonate
-detonate
 erase
 explode
 melt

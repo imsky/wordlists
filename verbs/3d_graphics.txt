@@ -15,7 +15,6 @@ paint
 pose
 position
 render
-render
 rotate
 scale
 simplify

@@ -5,7 +5,6 @@ customer
 direct
 district
 dynamic
-dynamic
 forward
 future
 global

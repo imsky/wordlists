@@ -86,7 +86,6 @@ simple
 smart
 soft
 sophisticated
-sophisticated
 stern
 strong
 stubborn
