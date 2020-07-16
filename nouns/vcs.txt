@@ -18,7 +18,6 @@ log
 mercury
 merge
 module
-object
 patch
 rebase
 remote
