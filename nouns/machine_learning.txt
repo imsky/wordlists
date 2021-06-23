@@ -36,6 +36,7 @@ hypothesis
 inference
 instance
 loss
+network
 neuron
 objective
 outlier

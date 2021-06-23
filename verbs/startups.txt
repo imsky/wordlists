@@ -1,0 +1,10 @@
+acquire
+close
+iterate
+launch
+pitch
+pivot
+raise
+secure
+ship
+sunset
