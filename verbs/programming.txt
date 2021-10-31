@@ -2,6 +2,8 @@ build
 code
 compile
 debug
+delete
+deploy
 develop
 execute
 generate
@@ -9,6 +11,9 @@ install
 link
 make
 patch
+pause
+publish
 release
 run
 step
+uninstall
