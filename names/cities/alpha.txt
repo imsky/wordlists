@@ -1,47 +1,50 @@
-amsterdam
-atlanta
-bangkok
-barcelona
-beijing
-boston
-brussels
-buenos aires
-chicago
-dallas
-dubai
-dublin
-frankfurt
-hong kong
-istanbul
-jakarta
-johannesburg
-kuala lumpur
-lisbon
-london
-los angeles
-madrid
-melbourne
-mexico
-miami
-milan
-moscow
-mumbai
-munich
-new delhi
-new york
-paris
-philadelphia
-san francisco
-santiago
-sao paulo
-seoul
-shanghai
-singapore
-sydney
-taipei
-tokyo
-toronto
-vienna
-warsaw
-washington d.c.
-zurich
+Amsterdam
+Bangalore
+Bangkok
+Beijing
+Boston
+Brussels
+Buenos Aires
+Chicago
+Dubai
+Dublin
+Frankfurt
+Guangzhou
+Hong Kong
+Istanbul
+Jakarta
+Johannesburg
+Kuala Lumpur
+Lisbon
+London
+Los Angeles
+Luxembourg
+Madrid
+Manila
+Melbourne
+Mexico City
+Milan
+Montreal
+Moscow
+Mumbai
+Munich
+New Delhi
+New York
+Paris
+Prague
+Riyadh
+San Francisco
+Santiago
+Sao Paulo
+Seoul
+Shanghai
+Shenzhen
+Singapore
+Stockholm
+Sydney
+Taipei
+Tokyo
+Toronto
+Vienna
+Warsaw
+Zurich

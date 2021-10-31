@@ -1,4 +1,5 @@
 1000x
+airdrop
 altcoin
 arbitrage
 ASIC
@@ -8,6 +9,8 @@ BTFD
 centralized
 Coinbase
 decentralized
+DeFi
+Dogecoin
 dump it
 DYOR
 encrypted
@@ -17,13 +20,20 @@ exchange
 faucet
 fiat
 FOMO
+gas
 HODL
 ICO
 ledger
 leverage
+Litecoin
+Metamask
+miner
 Monero
+moon
 Mt. Gox
+NFT
 platform
+Polkadot
 ponzi
 proof of stake
 proof of work
@@ -32,13 +42,19 @@ Satoshi
 scalability
 signature
 smart contracts
+Solana
 Solidity
+stake
 startup
 store of value
+supply
 taxes
 Telegram
+Tether
 transaction
 trustless
 undervalued
+Uniswap
 unregulated
+wallet
 whitepaper

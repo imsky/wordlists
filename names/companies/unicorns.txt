@@ -1,9 +1,12 @@
 Airbnb
 Brex
+ClassPass
 Coinbase
 Compass
 Docker
 DoorDash
+Figma
+Fivetran
 GitHub
 Gusto
 Instacart
@@ -11,8 +14,11 @@ Jet
 Juul
 Lyft
 Nextdoor
+Oatly
+Patreon
 Peloton
 Prosper
+Rippling
 Robinhood
 Shazam
 SpaceX
