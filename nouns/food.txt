@@ -7,6 +7,7 @@ biscuit
 bread
 broth
 burger
+burrito
 butter
 cake
 candy
@@ -14,6 +15,7 @@ caramel
 caviar
 cheese
 chili
+chimichanga
 chocolate
 cider
 cobbler
@@ -29,6 +31,8 @@ dessert
 dish
 drink
 eggs
+empanada
+enchilada
 entree
 filet
 fish
@@ -68,6 +72,7 @@ plate
 pot
 poutine
 pudding
+queso
 raclette
 recipe
 rice
@@ -78,16 +83,20 @@ sauce
 seasoning
 skillet
 soda
+sopapillas
 soup
 soy
 spice
 steak
 stew
 syrup
+taco
+taquito
 tartar
 taste
 tea
 toast
+tostada
 vinegar
 waffle
 water
