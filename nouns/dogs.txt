@@ -17,6 +17,7 @@ retriever
 rottweiler
 schnauzer
 setter
+shepherd
 spaniel
 spitz
 terrier
