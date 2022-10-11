@@ -12,6 +12,7 @@ bunker
 cabana
 cafe
 capitol
+castle
 cathedral
 chalet
 chapel
