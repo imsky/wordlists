@@ -8,6 +8,7 @@ DoorDash
 Figma
 Fivetran
 GitHub
+Glassdoor
 Gusto
 Instacart
 Jet
