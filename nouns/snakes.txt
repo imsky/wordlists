@@ -1,0 +1,17 @@
+anaconda
+adder
+asp
+boa
+boiga
+boomslang
+cobra
+copperhead
+cornsnake
+diamondback
+hognose
+krait
+lancehead
+mamba
+python
+rattlesnake
+viper
