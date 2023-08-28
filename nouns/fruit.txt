@@ -1,31 +1,827 @@
-apple
-apricot
-avocado
-banana
-berry
-cantaloupe
-cherry
-citron
-citrus
-coconut
-date
-fig
-grape
-guava
-kiwi
-lemon
-lime
-mango
-melon
-mulberry
-nectarine
-orange
-papaya
-peach
-pear
-pineapple
-plum
-prune
-raisin
-raspberry
-tangerine
+Abiu
+Acerola
+Achacha
+Ackee
+Afghan cherry
+African baobab fruit
+African cherry orange
+African custard-apple
+African locust bean
+African mango
+African mangosteen
+African oil palm fruit
+African peach
+Aglaia teysmanniana
+Aguasiqui
+Alaskan bunchberry
+Allegheny plum
+Alligator juniper berry
+Almond
+Almond-leaved pear
+Amanatsu
+Amazon grape
+Ambarella
+Amelanchier intermedia
+Amelanchier parviflora
+American beautyberry
+American black elderberry
+American oil palm fruit
+American persimmon
+American plum
+American red elderberry
+American red raspberry
+Angular sea-fig
+Annona aurantiaca
+Annona conica
+Annona coriacea
+Annona cornifolia
+Annona jahnii
+Annona longiflora
+Annona nutans
+Annona paludosa
+Annona stenophylla
+Annonilla
+Antipolo
+Apple
+Apple berry
+Apricot
+Apricot plum
+Apricot-leaved pear
+Arabian coffee
+Arabian wild almond
+Araticum-cagão
+Aratincum do Para
+Araza
+Arctic raspberry
+Arius
+Armenian blackberry
+Artocarpus lowii
+Artocarpus styracifolius
+Asam gelugur
+Asam kelubi
+Asian pear
+Atemoya
+Atherton raspberry
+Australian baobab fruit
+Avocado
+Açaí
+Babaco
+Bacuri
+Bael
+Bailan melon
+Bajoura citron
+Balatá
+Balloon berry
+Bambangan
+Banana
+Banana melon
+Banana passionfruit
+Banana passionfruit
+Banana yucca
+Barberry
+Beach plum
+Beach strawberry
+Beach sugar apple
+Bear's plum
+Bearberry
+Bell apple
+Bemange
+Bengal currant
+Bergamot orange
+Bignay
+Bilberry
+Bilberry cactus fruit
+Bilimbi
+Binjai
+Birchleaf pear
+Bird cherry
+Biribá
+Bitter orange
+Black apple
+Black cherry
+Black currant
+Black mulberry
+Black plum
+Black raspberry
+Black sapote
+Blackberry
+Blood lime
+Blood orange
+Blue guarri
+Blue passionfruit
+Blue sweet calabash
+Blue tongue
+Blueberry
+Bokhara plum
+Bolivian mountain coconut
+Bolwarra
+Bombona
+Boquila
+Borojó
+Boysenberry
+Brazil cherry
+Brazilian guava
+Breadfruit
+Breadnut
+Briançon apricot
+Broad-leaved brown pine fruit
+Broad-leaved yellowwood fruit
+Brown pine fruit
+Brush cherry
+Buddha's hand
+Buffalo-thorn
+Burahol
+Burdekin plum
+Burmese grape
+Bush butter fruit
+Bushveld bluebush
+Butia arenicola
+Butia campicola
+Butia capitata
+Butia catarinensis
+Butia lallemantii
+Butia matogrossensis
+Butia pubispatha
+Butia purpurascens
+Button mangosteen
+Cacao
+Cainito
+Calabur fruit
+Calamansi
+California blackberry
+California juniper berry
+Callery pear
+Calligonum junceum
+Calva crabapple
+Cam sành
+Cambuci
+Camu camu
+Canadian bunchberry
+Canadian serviceberry
+Canary melon
+Canistel
+Cape gooseberry
+Caqui
+Cardón fruit
+Carob
+Cashew apple
+Casimiroa
+Cassabanana
+Cattley guava
+Cawesh
+Cedar Bay cherry
+Cempedak
+Centennial variegated kumquat
+Cerrado pear
+Ceylon gooseberry
+Changunga
+Chaplaish
+Charichuelo
+Cherimoya
+Cherry elaeagnus
+Cherry laurel
+Cherry of the Rio Grande
+Cherry plum
+Chickasaw plum
+Chilean guava
+Chinese bramble berry
+Chinese bush cherry
+Chinese crab apple
+Chinese date
+Chinese flowering apple
+Chinese pearleaf crabapple
+Chinese plum
+Chinese quince
+Chinese serviceberry
+Chinese sour cherry
+Chinese white pear
+Chocolate vine fruit
+Choke cherry
+Chokeberry
+Citron
+Citron melon
+Clementine
+Cloudberry
+Clove cherry
+Clown fig
+Cluster fig
+Coarse dodder-laurel fruit
+Coastal serviceberry
+Cocky apple
+Coconut
+Cocoplum
+Coffeeberry
+Cone cherry
+Conkerberry
+Copperleaf snowberry
+Cornelian cherry
+Corozo palm fruit
+Costa Rican guava
+Country-almond
+Courbaril
+Cranberry
+Crane melon
+Creek plum
+Creeping juniper berry
+Creeping raspberry
+Crenshaw melon
+Crowberry
+Cucumis prophetarum
+Cudrang
+Cupuaçu
+Curry berry
+Curuba
+Custard apple
+Cut-leaf crabapple
+Cut-leaf crabapple
+Cutleaf evergreen blackberry
+Cyclamin cherry
+Damson
+Darvaz plum
+Darwin's barberry
+Date
+Date-plum
+David's peach
+Davidson's plum
+Dawyck cherry
+Dead man's fingers
+Delicious raspberry
+Desert almond
+Desert apricot
+Desert fig
+Desert juniper berry
+Desert lime
+Desert peach
+Desert quandong
+Dewberry
+Dog cherry
+Doub palm fruit
+Downy serviceberry
+Dragon fruit
+Dugdug
+Duguetia confinis
+Duguetia spixiana
+Durian
+Durio oxleyanus
+Dusky pear
+Dutchman's laudanum
+Dwarf Russian almond
+Dwarf jelly palm fruit
+Dwarf plum pine fruit
+Dwarf red blackberry
+Dwarf yatay palm fruit
+Dye fig
+East African yellowwood fruit
+Eastern crabapple
+Eastern mayhaw
+Eastern teaberry
+Elderberry
+Elephant apple
+Elmleaf blackberry
+Emblic
+Emu apple
+Emu berry
+Engkala
+Entawak
+Etrog
+European Plum
+European cantaloupe
+European crab apple
+European dewberry
+European dwarf cherry
+European red raspberry
+European wild pear
+False pineapple
+Fe'i banana
+Feijoa
+Fergana peach
+Fibrous satinash
+Ficus carrii
+Ficus insipida
+Ficus neriifolia
+Ficus parietalis
+Ficus simplicissima
+Ficus sinuata
+Ficus ulmifolia
+Ficus wassa
+Fig
+Finger lime
+Five-leaved bramble berry
+Flatwoods plum
+Florentine citron
+Florentine crabapple
+Flowering almond
+Fony baobab fruit
+Fox grape
+Fuji cherry
+Gamboge
+Gandaria
+Gansu peach
+Garcinia cambogia
+Garcinia forbesii
+Garcinia magnifolia
+Garcinia pseudoguttifera
+Garden dewberry
+Garlic passionfruit
+Gaya melon
+Giant granadilla
+Glenniea philippinensis
+Golden Himalayan raspberry
+Golden kiwifruit
+Gomortega
+Gooseberry
+Grape
+Grapefruit
+Gray-leaf cherry
+Greek juniper berry
+Green plum
+Green sapote
+Greene's mountain-ash fruit
+Greengage
+Guarana
+Guava
+Guavaberry
+Gubinge
+Gummy Bear fruit
+Gympie-gympie fruit
+Gấc
+Hackberry
+Hairless rambutan
+Hala fruit
+Hall crabapple
+Hardy kiwi
+Haruka
+Hawaiian raspberry
+Hawthorn
+Himalayan bird cherry
+Himalayan juniper berry
+Hokkaido bird cherry
+Hollyleaf cherry
+Honeyberry
+Honeydew melon
+Honeysuckle
+Hortulan plum
+Huckleberry
+Hydnora abyssinica
+Hyuganatsu
+Ice-cream bean
+Ichang papeda
+Ilama
+Indian wild pear
+Italian plum
+Iyokan
+Jabuticaba
+Jackal food
+Jackfruit
+Jagua
+Jambolan
+Japanese alpine cherry
+Japanese apricot
+Japanese bird cherry
+Japanese bramble berry
+Japanese bush cherry
+Japanese cherry
+Japanese crab
+Japanese fig
+Japanese silverberry
+Jelly palm fruit
+Jentik
+Jiangsu kumquat
+Jocote
+Jujube
+Juneberry
+Juniper berry
+Juniperus turbinata
+Jícama
+Jícara
+Kabosu
+Kaffir lime
+Kahikatea
+Kaido crab apple
+Kajari melon
+Kanpei
+Kaong
+Karkalla fruit
+Kawachi Bankan
+Kazak pear
+Kei apple
+Keledang
+Kelsey plum
+Keluak
+Kesusu
+Key lime
+Khirni
+King coconut
+Kinkoji unshiu
+Kinnow
+Kiwano
+Kiwano rund
+Kiwifruit
+Kiyomi
+Kobayashi mikan
+Koji orange
+Kokum
+Kola nut
+Kolkhoznitsa melon
+Koolah
+Korean blackberry
+Korean juneberry
+Korean melon
+Korean raspberry
+Korlan
+Kousa dogwood fruit
+Kubal
+Kuchinotsu No.37
+Kumquat
+Kundong
+Kwai muk
+Lala palm
+Langsat
+Lardizabala
+Lebanese wild apple
+Lemon
+Lemon aspen fruit
+Lemon drop mangosteen
+Lemonadeberry
+Lime
+Limeberry
+Limequat
+Lingonberry
+Little gooseberry
+Loganberry
+Long-peduncled almond
+Longan
+Loquat
+Lovi-lovi
+Low juneberry
+Low serviceberry
+Luóhàn guǒ
+Lychee
+Lúcuma
+Malabar plum
+Malay rose apple
+Malus sieversii
+Malus × zumi
+Mamey sapote
+Mammee
+Manchurian apricot
+Manchurian cherry
+Manchurian crab apple
+Mandacaru
+Mandarin orange
+Mangaba
+Mango
+Mangosteen
+Mangshanyegan
+Manilkara chicle
+Manilkara elata
+Manilkara obovata
+Manoao
+Maqui berry
+Maracuja Bravo
+Maracuja Mochila
+Maracuja Redondo
+Marang
+Marolo
+Marula
+Massaranduba
+Mayapple
+Maypop
+Medlar
+Melogold
+Menteng
+Mexican plum
+Meyer lemon
+Micrantha
+Midgen berry
+Miracle fruit
+Mirza melon
+Miyama cherry
+Mock strawberry
+Molucca bramble berry
+Monkey fruit
+Monkey jackfruit
+Monkeypod
+Monstera deliciosa
+Mora común
+Mora de Castilla
+Moriche palm fruit
+Mortiño
+Mountain juniper berry
+Mountain raspberry
+Mountain serviceberry
+Mountain snowberry
+Mountain soursop
+Mundu
+Muntrie
+Murray's plum
+Musa ingens
+Muscadine
+Musho
+Muskmelon
+Myrtle-leaved orange
+Mysore raspberry
+Nageia
+Nance
+Nanjing cherry
+Nannyberry
+Nantucket serviceberry
+Naranjilla
+Natal orange
+Native cherry
+Native currant
+Nectarine
+Neem
+Nepalese raspberry
+Nepali hog plum
+New Zealand passionfruit
+Niedzwetzky's apple
+Nipa palm fruit
+Nokaidō
+Noni
+North American cantaloupe
+Nutmeg fruit
+Oakleaf fig
+Ojai pixie
+Oklahoma plum
+Oleaster-leafed pear
+Olosapo
+One-seed juniper berry
+Ooray
+Orange
+Oregon grape
+Oroblanco
+Oshima cherry
+Otaheite gooseberry
+Oval kumquat
+Pacific crabapple
+Pacific plum
+Paho mango
+Pale serviceberry
+Papaya
+Partridgeberry
+Pashtun juniper berry
+Passiflora alata
+Passiflora ambigua
+Passiflora ampullacea
+Passiflora manicata
+Passiflora membranacea
+Passiflora platyloba
+Passiflora serratifolia
+Passionfruit
+Pawpaw
+Peach
+Peanut butter fruit
+Pear
+Peluntan
+Pennsylvania blackberry
+Pentadiplandra brazzeana
+Pepino
+Pequi
+Perfumed passionfruit
+Persian juniper berry
+Persimmon
+Peruvian apple cactus fruit
+Phalsa
+Phoenicean juniper berry
+Pigeon plum
+Pili
+Pillar apple
+Pin cherry
+Pineapple
+Pingan
+Pink banana
+Pinkglow pineapple
+Pitanga
+Pitomba
+Pitomba-da-bahia
+Plantain
+Plum pine fruit
+Plumleaf crab apple
+Plymouth pear
+Podocarpus
+Podocarpus lambertii
+Pomegranate
+Pomelo
+Pompia
+Pond apple
+Ponderosa lemon
+Poro poro
+Prairie crabapple
+Pratt's crabapple
+Prickly juniper berry
+Prickly pear fruit
+Prumnopitys
+Prunus alaica
+Prunus bifrons
+Prunus brachypetala
+Prunus cortapico
+Prunus fenzliana
+Prunus tangutica
+Pudau
+Pulasan
+Purple apple-berry
+Purple guava
+Purple-flowered raspberry
+Puruí
+Pyrus glabra
+Pyrus regelii
+Pyrus xerophila
+Queen palm fruit
+Quince
+Raisin tree fruit
+Rambutan
+Ramontchi
+Rangpur
+Red banana passionfruit
+Red bush apple
+Red currant
+Red fruit
+Red huckleberry
+Red mulberry
+Red passionfruit
+Red salak
+Redberry juniper berry
+Rhubarb
+Riberry
+Rimu
+River sandpaper fig
+Rocky Mountain juniper berry
+Rose hip
+Roseleaf bramble berry
+Round lime
+Roundleaf serviceberry
+Rowan
+Rukam
+Sabal palm fruit
+Sageretia
+Saguaro fruit
+Salak
+Salal
+Salmonberry
+Sampang
+Sand cherry
+Sandpaper fig
+Sansapote
+Santa Claus melon
+Santol
+Sapodilla
+Sargent crabapple
+Sargent's cherry
+Saskatoon
+Satsuma mandarin
+Savannah cherry
+Saw palmetto fruit
+Sawtooth blackberry
+Scarlet firethorn
+Scarlet passionfruit
+Sea anemone passionfruit
+Sea buckthorn
+Sea coconut
+Sea grape
+Shangjuan
+Shipova
+Shoebutton ardisia
+Shonan gold
+Shrub apple
+Siberian apricot
+Siberian crab apple
+Sikkim crabapple
+Silver almond
+Silver buffaloberry
+Silver peanut butter fruit
+Sloe
+Small-leaved fuchsia
+Small-leaved myrtle berry
+Small-leaved tamarind
+Smooth blackberry
+Smooth davidson's plum
+Smooth serviceberry
+Smooth stone peach
+Snow pear
+Snow raspberry
+Snowy mespilus
+Solomon's plume
+Soncoya
+Sorb
+Sorbus randaiensis
+Sour cherry
+Sour fig
+Sourplum
+Soursop
+South American sapote
+Southern crabapple
+Southern juniper berry
+Spanish cherry
+Spanish lime
+Spanish tamarind
+Sprite melon
+Staghorn sumac
+Star fruit
+Stinking passionfruit
+Stone bramble berry
+Strangler fig
+Strawberry
+Strawberry tree fruit
+Sudachi
+Sugar plum
+Sugar-apple
+Susung-kalabaw
+Swartbas
+Sweet apple-berry
+Sweet calabash
+Sweet crabapple
+Sweet granadilla
+Sweet limetta
+Sweet sandpaper fig
+Sycamore fig
+Syrian juniper berry
+Syrian pear
+Taiwan cherry
+Taiwan crabapple
+Taiwan tangerine
+Tamaran
+Tamarillo
+Tamarind
+Tamarind-plum
+Tangelo
+Tangerine
+Tangor
+Tapia
+Tayberry
+Temple juniper berry
+Terap
+Terap hitam
+Terap nasi
+Terengganu cherry
+Texas almond
+Texas peach
+Texas persimmon
+Thimbleberry
+Tianshan cherry
+Tigger melon
+Tilap
+Toad tree fruit
+Toringo crabapple
+Totara
+Toyon
+Trichosanthes beccariana
+Ugli fruit
+Ussurian pear
+Utah serviceberry
+Vanilla
+Velvet apple
+Velvet tamarind
+Velvet tamarind
+Viagra palm
+Vilmorin's rowan
+Virginian juniper berry
+Volkamer lemon
+Wampee
+Water lemon
+Watermelon
+Watery rose apple
+Wax apple
+Western juniper berry
+White aspen berry
+White bark raspberry
+White fig
+White kwai muk
+White mulberry
+White passionfruit
+White sandpaper fig
+White-stemmed bramble
+Whitebeam fruit
+Wiegand's serviceberry
+Wild Himalayan cherry
+Wild cherimoya
+Wild cherry
+Wild dilly
+Wild fig
+Wild jack
+Wild orange
+Wild peach
+Wild service tree fruit
+Wild strawberry
+Willow leaf cherry
+Wineberry
+Winter-flowering cherry
+Wolfberry
+Wongi
+Wood-apple
+Wooly jelly palm fruit
+Yangmei
+Yantok
+Yatay palm fruit
+Yellow granadilla
+Yellow mombin
+Yellow plum
+Yew berry
+Yew plum pine fruit
+Yoshino cherry
+Youngberry
+Yunnan crabapple
+Yuzu
+Zig-zag vine fruit
+Zwetschge
+Ōgonkan
