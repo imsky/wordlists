@@ -41,7 +41,7 @@ radioactive
 rectilinear
 relative
 resolving
-resonnt
+resonant
 resultant
 rigid
 volumetric
